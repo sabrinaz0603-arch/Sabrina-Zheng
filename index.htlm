@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Yan Zheng — Portfolio</title>
+<h1>Yan Zheng | Marketing & Communications (Auckland, NZ)</h1>
+<p>Brand strategy · Social · Events · Bilingual content</p>
+
+<h2>Featured Work</h2>
+<ul>
+  <li><a href="projects/silverdale.html">Silverdale Christmas — Faces of Silverdale</a></li>
+  <li><a href="projects/la-marzocco.html">La Marzocco NZ — 2-Week Social Calendar</a></li>
+</ul>
+
+<h2>Contact</h2>
+<p>Email: you@example.com · <a href="https://www.linkedin.com/in/your">LinkedIn</a></p>
+</html>
